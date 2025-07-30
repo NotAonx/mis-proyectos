@@ -1,0 +1,22 @@
+h1{
+    font-size: 64px;
+    background-color: aquamarine;
+    text-align: center;
+}
+.pss {
+    background-color: silver;
+    border: solid;
+    border-color: silver;
+    font-size: 14px;
+}
+
+button {
+    background-color: green;
+    border-radius: 10px;
+    font-size: 32px;
+}
+
+body {
+    background-color: silver;
+    text-align: center;
+}

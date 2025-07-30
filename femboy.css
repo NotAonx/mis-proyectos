@@ -1,0 +1,15 @@
+button {
+    background-color: #F18AF3;
+    border-radius: 10px;
+    font-size: 16px,
+}
+h1 {
+    background-color: palevioletred;
+    border-radius: 10px;
+    font-size: 64px;
+}
+
+body {
+    background-color: pink;
+    text-align: center;
+}

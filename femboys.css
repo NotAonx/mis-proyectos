@@ -1,0 +1,35 @@
+h1 {
+    font-size: 64px;
+    background-color: #919191;
+
+}
+
+body {
+    background-color: #B0B0B0;
+    text-align: center;
+}
+
+.sekret {
+    font-size: 64px;
+    border: solid;
+    border-color:  #868686;
+    background-color: #A5A5A5;
+}
+
+p {
+    font-size: 24px;
+}
+
+button {
+    background-color: black;
+    border-radius: 10px;
+    font-size: 30px;
+    color: red;
+    border: solid;
+    border-color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.denuevowebon {
+    font-size: 27px;
+}

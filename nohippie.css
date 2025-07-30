@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: #BC5353;
+    font-size: 24px;
+
+}
+
+h1 {
+    font-size: 64px;
+    background-color: #C20000;
+    border: solid;
+    border-color: #9A3838;
+}
+
+button {
+    background-color: yellow;
+    font-size: 35px;
+    border: solid;
+    border-color: yellow;
+}
